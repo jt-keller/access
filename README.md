@@ -1,5 +1,5 @@
 # Clone the repo
-git clone https://github.com/your/repo.git
+git clone https://github.com/jt-keller/access.git
 cd repo
 
 # Create and activate virtual environment
